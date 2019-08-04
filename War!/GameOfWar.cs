@@ -1,4 +1,8 @@
-﻿using System;
+﻿/* Written By Tyler Besecker
+ * 08/01/2019
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
